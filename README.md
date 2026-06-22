@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> No mires el reloj que la noche acaba de empezar
+> Tu cuerpo y el mío tienen algo pendiente que probar
+> Bajo las luces de neón te voy a hacer volar
+> Esta medianoche nadie nos puede parar
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
