@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Sol de medianoche
+
+This log tracks the cryptographic history and versioning for the song **Sol de medianoche** (sol-de-medianoche).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-22T07:10:03.842531 | `v1` | `706973e9eb20b6ebc3e3335f3abcb10a808f4c1eeb2c9fdb3915aebbabba9c7e` | `778d00472fcef10620f99f1d2b28781959388acaadb43f325cb7a051ec2b48ac` | `2026-06-22_sol-de-medianoche-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

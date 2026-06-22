@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sol-de-medianoche/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Sol de medianoche](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sol-de-medianoche/) |
+| **Get License** | [Commercial Licensing for Sol de medianoche](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sol-de-medianoche/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `706973e9eb20b6ebc3e3335f3abcb10a808f4c1eeb2c9fdb3915aebbabba9c7e` |
 | **Timestamp** | June 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
